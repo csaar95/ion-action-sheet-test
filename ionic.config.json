@@ -1,0 +1,7 @@
+{
+  "name": "ion-action-sheet-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
